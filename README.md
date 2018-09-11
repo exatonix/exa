@@ -1,2 +1,1 @@
-# exa
 first repo
